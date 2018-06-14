@@ -219,9 +219,6 @@ Media Queries for 980px screen
 */
 
 @media screen and (max-width: 980px) {
-    body {
-        width: 100%;
-    }
 
     header {
         position: static;
@@ -275,11 +272,7 @@ Media Queries for 768px screen
 
 
 @media screen and (max-width: 768px) {
-    body {
-        width: 100%;
-        padding: 5px;
-    }
-
+ 
     header {
         position: static;
         height: auto;
@@ -347,10 +340,6 @@ Media Queries for 640px screen
 */
 
 @media screen and (max-width: 640px) {
-    body {
-        width: 100%;
-        padding: 5px;
-    }
 
     header {
         position: static;
@@ -365,7 +354,7 @@ Media Queries for 640px screen
     }
 
     h1 {
-        padding: 15px 92px;
+        padding: 15px 97px;
         margin-left: 0;
     }
 
